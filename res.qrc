@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/bmp">
+        <file>images/bmp/undo.bmp</file>
+        <file>images/bmp/underline.bmp</file>
+        <file>images/bmp/save.bmp</file>
+        <file>images/bmp/right.bmp</file>
+        <file>images/bmp/remove.bmp</file>
+        <file>images/bmp/redo.bmp</file>
+        <file>images/bmp/print.bmp</file>
+        <file>images/bmp/paste.bmp</file>
+        <file>images/bmp/open.bmp</file>
+        <file>images/bmp/new.bmp</file>
+        <file>images/bmp/Justified.bmp</file>
+        <file>images/bmp/Italics.bmp</file>
+        <file>images/bmp/insert.bmp</file>
+        <file>images/bmp/import.bmp</file>
+        <file>images/bmp/export.bmp</file>
+        <file>images/bmp/exit.bmp</file>
+        <file>images/bmp/error.bmp</file>
+        <file>images/bmp/delete.bmp</file>
+        <file>images/bmp/cut.bmp</file>
+        <file>images/bmp/copy.bmp</file>
+        <file>images/bmp/clean.bmp</file>
+        <file>images/bmp/CenterHorizontally.bmp</file>
+        <file>images/bmp/bold.bmp</file>
+        <file>images/bmp/append.bmp</file>
+        <file>images/bmp/AlignRight.bmp</file>
+        <file>images/bmp/AlignLeft.bmp</file>
+        <file>images/bmp/color.bmp</file>
+        <file>images/bmp/text.bmp</file>
+        <file>images/bmp/SaveAs.bmp</file>
+        <file>images/bmp/printPreview.bmp</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource lang="c++" prefix="/"/>
+</RCC>
